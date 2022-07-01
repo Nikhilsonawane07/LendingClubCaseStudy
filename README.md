@@ -1,4 +1,4 @@
-# Project Name
+# Lending club case study
 > Outline a brief description of your project.
 
 
